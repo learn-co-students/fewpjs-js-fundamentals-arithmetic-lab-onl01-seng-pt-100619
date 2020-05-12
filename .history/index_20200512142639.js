@@ -11,4 +11,3 @@ let random = Math.floor(Math.random() * 10) + 1;
 
 let mod = 4 % 16
 
-let max = Math.max(20)

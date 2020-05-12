@@ -9,6 +9,5 @@ const num2 = 2
 let random = Math.floor(Math.random() * 10) + 1;
 
 
-let mod = 4 % 16
+let mod = 4 % 4 
 
-let max = Math.max(20)
